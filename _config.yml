@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 怺加冢穴 21 寄 14 版
+subtitle: '怺加冢穴 21 寄 14 版博客'
+description: '怺加冢穴 21 寄 14 版的博客'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 打工的JamesGP
+language: zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,9 +97,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: alpha-dust
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/yjzx202114ban/yjzx202114ban.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-page

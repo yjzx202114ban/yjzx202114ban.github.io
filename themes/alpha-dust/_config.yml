@@ -1,0 +1,43 @@
+# Logo (Font Awesome Class)
+fa_logo: fa-cube
+
+# Header
+menu:
+  主页: /
+  归档: /archives
+  关于: /about
+  标签: /tags
+  分类: /categories
+
+# Default post title
+default_post_title: Untitled
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+#twitter_url: https://twitter.com/?lang=en
+#facebook_url: https://www.facebook.com/
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+github_url: https://github.com/yjzx202114ban
+#telegram_url: https://telegram.org/
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
+#email_url: test@example.com
+#rss_url: \#
+
+# Footer About Text
+footer_about: "本网站由 <a href=\"https://github.com/klugjo/hexo-theme-alpha-dust\">alpha-dust</a> 主题与 <a href=\"https://hexo.io\">Hexo</a> 博客引擎强力驱动。"
+
+# Footer Copyright Line
+footer_copyright: "©2023<i class=\"fa fa-heart\"></i>怺加冢穴计算机社团"
+
