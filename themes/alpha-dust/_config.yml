@@ -18,7 +18,10 @@ archive_date_format: MMM YYYY
 # Comments.
 comments:
   # Disqus comments
-  disqus_shortname:
+  giscus_repo: yjzx202114ban/yjzx202114ban.github.io
+  giscus_repo_id: R_kgDOJD8Ghg
+  giscus_category: Announcements
+  giscus_category_id: DIC_kwDOJD8Ghs4CUu14
 
 # Google Analytics Tracking ID
 google_analytics:

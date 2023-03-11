@@ -18,3 +18,20 @@
 
 <div class="fb-comments" data-href="<%= url %>" data-num-posts="<%= theme.comments.facebook.comment_count %>" data-width="100%" data-colorscheme="<%= theme.comments.facebook.comment_colorscheme %>"></div>
 <% } %>
+
+<% if(page.comments && theme.comments && theme.comments.giscus_repo && theme.comments.giscus_repo_id && theme.comments.giscus_category && theme.comments.giscus_category_id ) { %>
+    <script src="https://giscus.app/client.js"
+    data-repo="<%= theme.comments.giscus_repo %>"
+    data-repo-id="<%= theme.comments.giscus_repo_id %>"
+    data-category="<%= theme.comments.giscus_category %>"
+    data-category-id="<%= theme.comments.giscus_category_id %>"
+    data-mapping="pathname"
+    data-strict="1"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="transparent_dark"
+    data-lang="zh-CN"
+    crossorigin="anonymous"
+    async>
+</script>    <% } %>
