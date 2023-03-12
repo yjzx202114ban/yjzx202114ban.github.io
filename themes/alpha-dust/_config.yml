@@ -32,6 +32,7 @@ google_analytics:
 #instagram_url: https://www.instagram.com/
 #dribble_url: https://dribbble.com/
 github_url: https://github.com/yjzx202114ban
+github_url2: https://github.com/James-G-P
 #telegram_url: https://telegram.org/
 #behance_url: https://www.behance.net/
 #fivehundredpx_url: https://500px.com/
@@ -42,5 +43,4 @@ github_url: https://github.com/yjzx202114ban
 footer_about: "本网站由 <a href=\"https://github.com/klugjo/hexo-theme-alpha-dust\">alpha-dust</a> 主题与 <a href=\"https://hexo.io\">Hexo</a> 博客引擎强力驱动。"
 
 # Footer Copyright Line
-footer_copyright: "©2023<i class=\"fa fa-heart\"></i>怺加冢穴计算机社团"
-
+footer_copyright: "©2023<i class=\"fa fa-heart\"></i>怺加冢穴计算机社团&JamesGP联合打造"
