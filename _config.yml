@@ -100,8 +100,8 @@ theme: alpha-dust
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/yjzx202114ban/yjzx202114ban.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-page
+# deploy:
+#   type: git
+#   repo: https://github.com/yjzx202114ban/yjzx202114ban.github.io
+#   # example, https://github.com/hexojs/hexojs.github.io
+#   branch: gh-page
